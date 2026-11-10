@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "World Performance Helpers",
+    "description": "Optional dropped-item cleanup helpers. Does not alter world or dimension loading.",
+    "uuid": "3e5608a4-a6d2-4c06-a477-e39704e11fa8",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "0c494bc8-5bd6-4a3d-9a8a-c77e52b559ae",
+      "version": [1, 0, 0]
+    }
+  ]
+}
